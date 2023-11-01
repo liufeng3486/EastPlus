@@ -18,7 +18,7 @@ URL = 'https://github.com/liufeng3486/EastPlus.git'
 EMAIL = '34862933@qq.com'
 AUTHOR = 'Adol liu'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = None
+VERSION = '0.3.3'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
